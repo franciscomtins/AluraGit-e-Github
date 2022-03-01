@@ -1,1 +1,6 @@
 ide
+config
+HEAD
+description
+hooks
+info
